@@ -1,6 +1,6 @@
-# Giftbox
+# Ralli
 
-A playful web application for creating digital letters with various interactive elements. Built with Next.js and TypeScript.
+A playful web application for creating digital life feeds with various interactive elements. Built with Next.js and TypeScript.
 
 ## Features
 
